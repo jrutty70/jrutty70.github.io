@@ -1,0 +1,31 @@
+header{
+	background-color: #ccdc75;
+
+}
+
+h1,h2{
+	font-color:blue;
+	text-transform: uppercase;
+}
+
+h1{
+	text-align: center;
+}
+
+
+section{
+	background-color: #9875dc;
+
+}
+
+a{
+	background-color: #9875dc;
+	font-color: 666666#;
+	text-align: center;
+}
+
+img{
+	display: none;
+
+}
+

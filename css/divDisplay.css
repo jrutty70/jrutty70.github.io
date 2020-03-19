@@ -1,0 +1,33 @@
+/*Take out the comments around each rule.
+
+Try changing the display property*/
+span{
+     background-color: red;
+     width: 15%;
+     height: 25px;
+     
+     
+/*      display: block; */
+}
+
+   
+div{
+       width: 30%;
+       height: 25px;
+     
+       display: table-cell;
+		   background-color: green;
+		   padding: 0;
+		   float:left;
+        overflow:auto;
+}
+
+
+p{
+	clear:both;
+	background-color: lightblue;
+	width: 20%;
+    height: 25px;
+/*       padding: 25px; */
+}
+
